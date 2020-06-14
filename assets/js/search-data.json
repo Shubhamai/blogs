@@ -1,22 +1,11 @@
 {
   
-    
-        "post0": {
-            "title": "An Example Markdown Post",
-            "content": "Example Markdown Post . Basic setup . Jekyll requires blog post files to be named according to the following format: . YEAR-MONTH-DAY-filename.md . Where YEAR is a four-digit number, MONTH and DAY are both two-digit numbers, and filename is whatever file name you choose, to remind yourself what this post is about. .md is the file extension for markdown files. . The first line of the file should start with a single hash character, then a space, then your title. This is how you create a “level 1 heading” in markdown. Then you can create level 2, 3, etc headings as you wish but repeating the hash character, such as you see in the line ## File names above. . Basic formatting . You can use italics, bold, code font text, and create links. Here’s a footnote 1. Here’s a horizontal rule: . . Lists . Here’s a list: . item 1 | item 2 | . And a numbered list: . item 1 | item 2 | Boxes and stuff . This is a quotation . . You can include alert boxes …and… . . You can include info boxes Images . . Code . You can format text and code per usual . General preformatted text: . # Do a thing do_thing() . Python code and output: . # Prints &#39;2&#39; print(1+1) . 2 . Formatting text as shell commands: . echo &quot;hello world&quot; ./some_script.sh --option &quot;value&quot; wget https://example.com/cat_photo1.png . Formatting text as YAML: . key: value - another_key: &quot;another value&quot; . Tables . Column 1 Column 2 . A thing | Another thing | . Tweetcards . Altair 4.0 is released! https://t.co/PCyrIOTcvvTry it with: pip install -U altairThe full list of changes is at https://t.co/roXmzcsT58 ...read on for some highlights. pic.twitter.com/vWJ0ZveKbZ . &mdash; Jake VanderPlas (@jakevdp) December 11, 2019 Footnotes . This is the footnote. &#8617; . |",
-            "url": "https://shubhamai.github.io/blogs/markdown/2020/01/14/test-markdown-post.html",
-            "relUrl": "/markdown/2020/01/14/test-markdown-post.html",
-            "date": " • Jan 14, 2020"
-        }
-        
-    
-  
 
   
   
 
   
-      ,"page1": {
+      "page1": {
           "title": "About Me",
           "content": "Well, I love robotics and how Machine Learning &amp; AI can be applied to this thing, always seek to learn new stuff from quantum computing, space🌌, robotics 🤖 to the latest research in AI. . I have been Machine learning since more than a year, and currently, making all sorts of projects and products with Machine learning, Deep Learning, computer vision, Deep Reinforcement Learning and possibly Natural Language Processing, and of course, deploying them into the cloud for the world . I started programming way back when I was 14, playing with electronics and micro-controllers including Arduino, Raspberry PI, servo, LED 💡, and much more. Then it was time to upgrade, so I started learning Python and there was a lot of fun to learn a new programming language, I started learning Machine Learning way back when I was 15 years old, with Deep Learning, Computer Vision, Natural Language Processing and little Reinforcement Learning. . Currently, I have been working Self Paid and Teaching Assistant at Zero to Mastery. Helping students who are just getting started into Machine Learning &amp; AI. . My current goals are to learn the latest advancement in Machine Learning and learn Deep Reinforcement Learning at the end of this year. . My stuff is all around here and there in this website, and sure to join my Monthly Newsletter . My blogs and writing are available on Medium . @Shubhamai is my handle on Twitter . India is my home country and i am proud of that. .",
           "url": "https://shubhamai.github.io/blogs/about/",
